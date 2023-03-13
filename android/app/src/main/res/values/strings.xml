@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">DirkApp</string>
+    <string name="facebook_app_id">https://www.facebook.com/chillitTech/</string>
+               <string name="fb_login_protocol_scheme">fbhttps://www.facebook.com/chillitTech/</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>169689583790-f9o8bn6f973aau594lb5et85sl8voj0e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.169689583790-f9o8bn6f973aau594lb5et85sl8voj0e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>169689583790-0k9lej45tkemrh15c0a2pvg5ktg7fi1v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHj0vdfB004y8XjsE1jqWyHMqGbuwhfA8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>169689583790</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chillit.dirkapp</string>
+	<key>PROJECT_ID</key>
+	<string>dirkapp-fea17</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dirkapp-fea17.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:169689583790:ios:bfa9b3de22675c3a4f1d3f</string>
+</dict>
+</plist>
